@@ -1,0 +1,13 @@
+body {
+  margin: 0 auto;
+  background-color: red;
+}
+
+.container {
+  display: grid;
+  grid-template-rows: 20% 60% 20%;
+}
+.header {
+  background-color: black;
+  height: 120px;
+}
